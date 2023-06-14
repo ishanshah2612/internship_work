@@ -1,6 +1,6 @@
 .mainheader{
     background-color:  #a49797;
-    background-image: url("/html_css_study/myFolder/header.png");
+    background-image: url("/myFolder/header.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 32vh;
@@ -13,8 +13,8 @@
     border-radius: 50%;
     color: white;
     position: relative;
-    right: 693px;
-    top: 52px;
+    right: 880px;
+    top: 56px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -57,4 +57,9 @@ li{
     right: 68px;
     /* height: 87px; */
     top: 10px;
+}
+.footerLogos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
